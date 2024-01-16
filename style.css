@@ -156,7 +156,7 @@ main {
 }
 
 .hero-text p {
-    font-size: 5.25em;
+    font-size: 3em;
 }
 .hero-text p span {
     color: var(--yellowish);
@@ -251,6 +251,9 @@ footer li {
     .hero {
         display: flex;
         gap: 3rem;
+    }
+    .hero-text p {
+        font-size: 5.25em;
     }
     .hero-explanation {
         display: flex;
